@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spidr/static/css/main.b83a314e.css",
+    "main.js": "/spidr/static/js/main.aa2aa6a4.js",
+    "static/js/453.b4931f62.chunk.js": "/spidr/static/js/453.b4931f62.chunk.js",
+    "index.html": "/spidr/index.html",
+    "main.b83a314e.css.map": "/spidr/static/css/main.b83a314e.css.map",
+    "main.aa2aa6a4.js.map": "/spidr/static/js/main.aa2aa6a4.js.map",
+    "453.b4931f62.chunk.js.map": "/spidr/static/js/453.b4931f62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b83a314e.css",
+    "static/js/main.aa2aa6a4.js"
+  ]
+}
